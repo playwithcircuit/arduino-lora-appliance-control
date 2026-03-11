@@ -1,7 +1,5 @@
 # Arduino LoRa Long-Range Appliance Control System
 
-<img src="images/Long Range Arduino-based Wireless Appliance Control using Mobile.jpg" width="800">
-
 LoRa (Long Range) communication enables devices to exchange data over large distances while consuming very little power. This technology is widely used in IoT applications such as remote monitoring, smart agriculture, and industrial automation.
 
 In this project, we build a long-range appliance control system using Arduino Nano and the RYLR999 LoRa + BLE module. A smartphone connects to the system using Bluetooth Low Energy (BLE) and sends control commands. These commands are then transmitted through LoRa wireless communication to a remote node, which activates relays to control electrical appliances such as a bulb or fan.

@@ -213,3 +213,11 @@ https://playwithcircuit.com/long-range-appliance-control-from-smartphone-using-a
 ## License
 
 This project is shared for educational and research purposes.
+
+## Repository Structure
+controller_code/ → Arduino code for controller node
+target_code/ → Arduino code for receiver node
+circuit_diagrams/ → Wiring diagrams
+images/ → Project images
+README.md → Project documentation
+

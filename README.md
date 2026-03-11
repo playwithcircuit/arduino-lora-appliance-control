@@ -197,6 +197,12 @@ This project can be extended further by adding additional features such as:
 - Implementing encryption for secure communication
 
 ---
+## Repository Structure
+controller_code/ → Arduino code for controller node
+target_code/ → Arduino code for receiver node
+circuit_diagrams/ → Hardware wiring diagrams
+images/ → Project images and architecture diagrams
+README.md → Project documentation
 
 ## Full Tutorial
 

@@ -195,12 +195,6 @@ This project can be extended further by adding additional features such as:
 - Implementing encryption for secure communication
 
 ---
-## Repository Structure
-controller_code/ → Arduino code for controller node
-target_code/ → Arduino code for receiver node
-circuit_diagrams/ → Hardware wiring diagrams
-images/ → Project images and architecture diagrams
-README.md → Project documentation
 
 ## Full Tutorial
 
@@ -213,11 +207,4 @@ https://playwithcircuit.com/long-range-appliance-control-from-smartphone-using-a
 ## License
 
 This project is shared for educational and research purposes.
-
-## Repository Structure
-controller_code/ → Arduino code for controller node
-target_code/ → Arduino code for receiver node
-circuit_diagrams/ → Wiring diagrams
-images/ → Project images
-README.md → Project documentation
 

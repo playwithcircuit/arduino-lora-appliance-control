@@ -81,6 +81,8 @@ Throughout the process, the LCDs show system messages such as module initializat
 
 ### Controller Node Connections
 
+![Wiring Connections for the Controller Setup](https://playwithcircuit.com/wp-content/uploads/2026/03/Wiring-Connections-for-the-Controller-Transmitter-Setup.webp)
+
 | Arduino Nano Pin | RYLR999 Pin | Purpose |
 |------------------|-------------|--------|
 | 5V | VDD | Power supply to module |
@@ -102,6 +104,8 @@ Throughout the process, the LCDs show system messages such as module initializat
 ---
 
 ### Target Node Connections
+
+![Wiring Connections for the Target Setup](https://playwithcircuit.com/wp-content/uploads/2026/03/Wiring-Connections-for-the-Target-Receiver-Setup.webp)
 
 | Arduino Nano Pin | Device | Purpose |
 |------------------|--------|--------|
@@ -133,9 +137,14 @@ L0 → DONE
 F1 → DONE
 F0 → DONE
 ```
-
 ---
+### Testing the System
+## 🎥 Watch Project Demo
 
+👉 Click below to see the full working video:
+
+[![Lora System](https://img.youtube.com/vi/01V1MLmuCQE/maxresdefault.jpg)](https://www.youtube.com/watch?v=01V1MLmuCQE)
+---
 ## Range Observation
 
 During practical testing performed in a dense urban environment with multiple buildings and obstacles, the following communication ranges were observed:
